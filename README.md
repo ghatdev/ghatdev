@@ -1,4 +1,5 @@
-![공사중](https://user-images.githubusercontent.com/4957065/97175312-aa262980-17d6-11eb-8bd5-559158a1cf15.jpg)
+![SeongUk's github stats](https://github-readme-stats.vercel.app/api?username=ghatdev&count_private=true&show_icons=true)
+
 
 프로필 제작중
 <!--
