@@ -1,4 +1,4 @@
-![SeongUk's github stats](https://github-readme-stats.vercel.app/api?username=ghatdev&count_private=true&show_icons=true)
+<!--![SeongUk's github stats](https://github-readme-stats.vercel.app/api?username=ghatdev&count_private=true&show_icons=true)-->
 
 
 프로필 제작중
